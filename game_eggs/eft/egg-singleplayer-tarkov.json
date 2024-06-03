@@ -32,7 +32,7 @@
             "name": "SPT-AKI Version",
             "description": "Branch to compile source from",
             "env_variable": "SPT_BRANCH",
-            "default_value": "3.8.1",
+            "default_value": "3.8.3",
             "user_viewable": true,
             "user_editable": true,
             "rules": "required|string",
