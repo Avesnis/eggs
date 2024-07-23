@@ -32,7 +32,7 @@
             "name": "SPT Version",
             "description": "Branch to compile source from",
             "env_variable": "SPT_BRANCH",
-            "default_value": "main",
+            "default_value": "3.9.3",
             "user_viewable": true,
             "user_editable": true,
             "rules": "required|string",
